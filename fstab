@@ -1,0 +1,4 @@
+# CLOUD_IMG: This file was created/modified by the Cloud Image build process
+UUID=9e45081a-7e2b-4294-8b2f-4ccb8139ed67	/	 ext4	defaults,discard	0 0
+UUID=C3ED-DA0C	/boot/efi	vfat	defaults,discard	0 0
+/dev/disk/cloud/azure_resource-part1	/mnt	auto	defaults,nofail,x-systemd.requires=cloud-init.service,comment=cloudconfig	0	2

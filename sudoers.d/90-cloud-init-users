@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.3-2-g371b392c-0ubuntu1~18.04.1 on Mon, 16 Nov 2020 08:59:59 +0000
+
+# User rules for zilch
+zilch ALL=(ALL) NOPASSWD:ALL
